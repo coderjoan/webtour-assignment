@@ -92,7 +92,7 @@ var APP_DATA = {
           "yaw": -0.264962139151919,
           "pitch": -0.06060792778051827,
           "title": "Noodles Store at the Summit Canteen",
-          "text": "According to Google Maps, the store is very popular with Chinese students"
+          "text": "According to Google Maps, the store is very popular with Chinese students."
         }
       ]
     },
