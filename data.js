@@ -137,7 +137,7 @@ var APP_DATA = {
           "yaw": 0.003790297814166621,
           "pitch": 0.03449155950703542,
           "title": "C J Koh Law Library",
-          "text": "Opening hours are 9am - 9pm on weekdays and 10am-5pm on Saturdays. Not open on Sundays and Public Holidays. Please check the NUS Libraries website."
+          "text": "Opening hours are 9am-9pm on weekdays and 10am-5pm on Saturdays. Not open on Sundays and Public Holidays. Please check the NUS Libraries website."
         }
       ]
     }
